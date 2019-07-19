@@ -18,8 +18,10 @@ Markdown会自动给每一个h1~h6标题生成一个锚，其id就是标题内�
 2. 使用HTML语法来增加跳转链接：`“<a href=”#id”>名称`
 
 >注意：id里不能包含符号，如果有空格用 - 代替
->比如：1、test test
->[1、test test](#1test-test)
+>
+>比如：
+>
+>1、test test = [1、test test](#1test-test)
 
 其中的“名称”可以随便填写，“id”需要填写跳转到的标题的内容。
 
